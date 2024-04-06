@@ -11,3 +11,4 @@ document.querySelectorAll('.col img').forEach(image => {
         image.style.transform = 'scale(1)';
     });
 });
+

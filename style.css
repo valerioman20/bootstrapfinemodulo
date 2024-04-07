@@ -86,8 +86,8 @@ h5 {
 
 /* tolgo il flex wrap per far distribuire le immagini in fila su desktop */
 .row  {
-flex-wrap: nowrap;
-margin-left: 0; /*Elimino il margin left di bootsrap */
+    flex-wrap: nowrap;
+    margin-left: 0; /*Elimino il margin left di bootsrap */
 }
 
 .col img {
